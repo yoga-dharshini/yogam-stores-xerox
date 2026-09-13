@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace the placeholder sitemap URL after the custom domain is connected.
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://yogam-stores-xerox.vercel.app/sitemap.xml
